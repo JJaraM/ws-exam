@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Microservice Post
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: jnja
+Implementation-Vendor-Id: com.jjara.microservice
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/exam
+Created-By: Maven Integration for Eclipse
+
